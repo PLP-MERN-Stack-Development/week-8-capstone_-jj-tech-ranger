@@ -121,3 +121,10 @@ This project is under active development. More features, polish, and documentati
 MIT License
 
 ---
+---
+
+## 📊 Pitch Deck
+
+📎 [Click here to view the Mwangaza Pitch Deck](./docs/MWANGAZA_PITCH_DECK.pptx)
+
+This presentation outlines the vision, problem, solution, and implementation plan for the Mwangaza Learning Management System.
